@@ -4,12 +4,6 @@
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 🚀 Live Demo
-
-Interact with the full dashboard online:
-[**👉 Click Here to View Live Power BI Dashboard**](https://app.powerbi.com/links/C2NMXu8zql?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare&bookmarkGuid=a0c14fbb-70fd-46d0-bd22-ccb677242154)
-
----
 
 ## 📌 Project Overview
 
